@@ -1,4 +1,4 @@
 const DEVELOPER_INFO = {
-  name: "A demain",
+  name: "MoriStudio",
   email: "icanbee.official@gmail.com"
 };
